@@ -34,6 +34,8 @@ Here are the Key steps I followed in the entire process with screenshots:
 * Enabled the Application Insights, which enabled logging and log outputs:
 
 <img src='app_insight.png'>
+* I ran the logs.py and got the result below:
+<img src='logs2.png'>
 <img src='logs_run.png'>
 <img src='logs_run1.png'>
 
@@ -53,10 +55,12 @@ Here are the Key steps I followed in the entire process with screenshots:
 <img src='bank_dataset_module.png'>
 3. Pipeline Overview with REST Active
 <img src='rest_active.png'>
+<img src='rest0.png'>
 4. Run Details showing from Jupyter Notebook
 <img src='run_details.png'>
 5. ML Studio showing scheduled run
 <img src='scheduled_run.png'>
+<img src='rest2.png'>
 
 
 ## Short Description to Improve Project in Future
