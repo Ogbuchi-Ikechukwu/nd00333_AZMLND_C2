@@ -66,10 +66,10 @@ Here are the Key steps I followed in the entire process with screenshots:
 ## Short Description to Improve Project in Future
 
 The project can be improved in future through the following ways:
-*Not using early stopping and allowing the experiment to run for longer training times
-*Getting a larger dataset than the one which was made available for this project
-*Performing more feature engineering and preprocessing steps on the dataset to uncover more data patterns
-*We can use deep learning and GPUs for future training to enhance the speed of training while giving us better results
+* Not using early stopping and allowing the experiment to run for longer training times
+* Getting a larger dataset than the one which was made available for this project
+* Performing more feature engineering and preprocessing steps on the dataset to uncover more data patterns
+* We can use deep learning and GPUs for future training to enhance the speed of training while giving us better results
 
 
 ## Screen Recording Link
